@@ -1,0 +1,6 @@
+body {
+  background-color: lightblue; /* Sets the background color */
+  color: darkblue;             /* Sets the text color */
+  text-align: center;          /* Centers all text */
+  font-family: Arial, sans-serif; /* Makes text look cleaner */
+}
